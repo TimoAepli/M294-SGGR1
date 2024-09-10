@@ -1,0 +1,22 @@
+.meintext {
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style:
+     normal;
+}
+
+.custom-two-tone {
+color: red; /* Primärfarbe */
+--mdc-icon-color: blue; /* Sekundärfarbe */
+}
+
+
+.myColor {
+/* Aufgabe XX: Farbe von Icons verändern - https://codepen.io/sosuke/pen/Pjoqqp */
+filter: brightness(0) saturate(100%) invert(8%) sepia(100%) saturate(7448%) hue-rotate(247deg) brightness(92%) contrast(144%);
+}
+.red{
+filter: brightness(0) saturate(100%) invert(13%) sepia(100%) saturate(7458%) hue-rotate(-15deg) brightness(96%) contrast(111%);
+
+}
